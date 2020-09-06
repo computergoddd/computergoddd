@@ -1,7 +1,7 @@
 ### I'm Tomiwa - aka [CoMpuTergoDD][website] 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/computergodddd?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=computergoddd)
 
-# I'm a Software Enginner, Bug Bounty hunter ,Stock Trader and Teacher!
+# I'm a Software Engineer, Bug Bounty hunter ,Stock Trader and Teacher!
 
 I'm a self taught software engineer and pentester from Lagos,Nigeria striving to innovate great solutions to modern-day problems. I specialize in digital design, ethical hacking and development, but any activity requiring problem solving and creative thinking is where you will find me.
 
